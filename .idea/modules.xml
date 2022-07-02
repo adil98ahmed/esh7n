@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/esh7n.iml" filepath="$PROJECT_DIR$/esh7n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/esh7n_android.iml" filepath="$PROJECT_DIR$/android/esh7n_android.iml" />
+    </modules>
+  </component>
+</project>
